@@ -2,7 +2,7 @@ const questions = [
   {
     question: "Which of the following is not a primary color?",
     answers: [
-      { text: "red", correct: false },
+      { text: "green", correct: true },
       { text: "green", correct: true },
       { text: "blue", correct: false },
       { text: "yellow", correct: false },
