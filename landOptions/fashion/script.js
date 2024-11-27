@@ -11,7 +11,7 @@ const questions = [
   {
     question: "What is the name of the style of clothing that originated in the 1950s and is characterized by its tight-fitting silhouette and emphasis on the hips?",
     answers: [
-      { text: "New look", correct: true },
+      { text: "Hippie", correct: false },
       { text: "Hippie", correct: false },
       { text: "Flapper", correct: false },
       { text: "Mod", correct: false },
